@@ -1,17 +1,28 @@
+# DATE : 23.09.2024
 # Ex.No:6 Implement an application that uses Explicit Intent using Android
-
 
 ## AIM:
 
 To create a two screens , first screen will take one number input from user. After click on Factorial button, second screen will open and it should display factorial of the same number using Explicit Intents.
-
 
 ## EQUIPMENTS REQUIRED:
 
 Latest Version Android Studio
 
 ## ALGORITHM:
+Step 1: Open Android Stdio and then click on File -> New -> New project.
 
+Step 2: Then type the Application name as “contentprovider″ and click Next.
+
+Step 3: Then select the Minimum SDK as shown below and click Next.
+
+Step 4: Then select the Empty Activity and click Next. Finally click Finish.
+
+Step 5: Design layout in activity_main.xml.
+
+Step 6: Get contacts details and Display details give in MainActivity file.
+
+Step 7: Save and run the application.
 
 
 ## PROGRAM:
